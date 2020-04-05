@@ -23,3 +23,5 @@ spec:
         - name: storage
           persistentVolumeClaim:
             claimName: mongo-pvc
+
+#https://learnk8s.io/spring-boot-kubernetes-guide

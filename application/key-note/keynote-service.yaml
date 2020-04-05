@@ -8,3 +8,7 @@ spec:
   ports:
     - port: 27017
       targetPort: 27017
+
+
+
+#https://learnk8s.io/spring-boot-kubernetes-guide
